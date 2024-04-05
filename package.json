@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "deploy": "gh-pages -d \"C:\\Users\\katle\\OneDrive\\Documents\\Projects\\My Projects\\portfolio\""
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
+
